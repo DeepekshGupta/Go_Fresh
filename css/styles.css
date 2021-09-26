@@ -1,0 +1,63 @@
+#title{
+    background-color: #bdf0b6;
+}
+
+h1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.container-fluid{
+   padding : 0% 0% 0%;    
+}
+
+.gap3{
+    
+        text-align: center;
+    
+}
+
+
+#features{
+    padding: 7% 10%;
+}
+
+.features-box{
+    text-align: center;
+    padding: 2%;
+   
+}
+
+h3{
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+}
+
+.feature_color_text{
+    color: #727070;
+}
+
+.icon{
+    margin-bottom: 1rem;
+}
+
+.gap{
+    padding: 7% 0%;
+}
+.gap1{
+    padding-top: 5%;
+}
+.gap2{
+    padding-top: 2%;
+}
+
+.carousel .item {
+    height: 300px;
+  }
+
+.lol{
+    padding-top: 15%;
+    text-align: center;
+    /* height: fit-content; */
+}  
+ 
